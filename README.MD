@@ -67,5 +67,4 @@ year={2023}
 For questions or support, feel free to reach out to us:
 
 - Abdullahi Yahaya (yahaya@knu.ac.kr)
-- Abdulhameed Babatunde Owolabi (owolabiabdulhameed@gmail.com)
 - Dongjun Suh (dongjunsuh@knu.ac.kr)
