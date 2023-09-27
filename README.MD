@@ -24,7 +24,7 @@ pip install -r requirements.pip
 
 ## Project Structure
 
-- `dataset`: Utilizing open-access data from an office building experiment encompassing occupancy profiles, electricity consumption, and indoor environmental data. This folder entails all the data required to replicate the notebooks.
+- `dataset`: Utilizing open-access data from an office building experiment encompassing occupancy profiles, electricity consumption, and indoor environmental data [33]. This folder entails all the data required to replicate the notebooks.
 
 - `GUI`: Contains the code for the web application, which can also be accessed at [scis_occupancy](https://scisoccupancy.streamlit.app/) and [Occupant Detector](https://huggingface.co/spaces/Allmen/Occupancy-Detection).
 - `Figures`: Contains the images from this research.
@@ -41,14 +41,6 @@ The algorithms trained and tested on this project include:
 - Bayesian Neural Network
 - PBR-BNN
 
-## Reference
-
-**Title**: Enhancing Building Energy through Regularized Bayesian Neural Networks for Precise Occupancy Detection and Energy Optimization
-
-**Authors**: Abdullahi Yahaya, Abdulhameed Babatunde Owolabi, Dongjun Suh
-
-You can access the full paper [here](link_to_the_paper).
-
 ## Citation
 
 If you find our work useful in your research or wish to refer it please use the following BibTeX entry.
@@ -61,6 +53,10 @@ journal={Journal of Energy & Enviroment},
 year={2023}
 }
 ```
+
+## Dataset Reference
+[33] L. M. Candanedo and V. Feldheim, ‘Accurate occupancy detection of an office room from light, temperature, humidity and CO 2 measurements using statistical learning models’, Energy and Buildings, vol. 112, pp. 28–39, Jan. 2016, doi: 10.1016/j.enbuild.2015.11.071.
+
 
 ## Contact
 
