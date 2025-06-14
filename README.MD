@@ -43,10 +43,7 @@ The algorithms trained and tested on this project include:
 
 ## Citation
 
-If you find our work useful in your research or wish to refer to it, please use the following BibTeX entry.
-
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.jobe.2025.112777-blue.svg)](https://doi.org/10.1016/j.jobe.2025.112777)
-
 **A. Yahaya, A.B. Owolabi, D. Suh**,  
 *Enhancing Building Energy through Regularized Bayesian Neural Networks for Precise Occupancy Detection*,  
 **Journal of Building Engineering**, 2025.  
